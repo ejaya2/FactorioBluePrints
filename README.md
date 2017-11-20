@@ -1,0 +1,2 @@
+# FactorioBluePrints
+Factorio Blueprint strings
